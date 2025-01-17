@@ -15,7 +15,8 @@ Efek yang didapat Ketika mengguakan script :
 - Stabilisasi sumber daya sistem
 - Efisensi sistem
 - pengalaman penggua yang lebih baik
-               .:.+ Efek .:.
+
+           .:.+ Efek .:.
 - Semakin meningkatkan perforncas aplikasi gamelist
 - Otimasi resoult system , CPU And RAM
 - Akses ke peyimpanan Yang lebih cepet
@@ -31,8 +32,7 @@ Recomened :
 ## .:. ⚠️WARNING .:.
 - Script cukup jalankan satu kali untuk pengguaan berkelanjutan
 
-Note :
-- Don't Reboot Device and kill sh dill
+Note : - Don't Reboot Device and kill sh dill
 
 ## Sarat pengguna ❓️
 Orang itu harus sudah memahami modifikasi 
