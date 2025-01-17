@@ -40,7 +40,7 @@ perngkat dan paham akan besick nonroot dill.
 
 ## PEMBUAT ❓️
 - Telegram : @Yeye_nat
-- Support  : https://t.me/Yeye_PID
+- Support  : @Yeye_PID
 
  ## ⚠️WARING :
  Kalo penggun mau meyertakan script saya di dalam
