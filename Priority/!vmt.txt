@@ -1,0 +1,55 @@
+          [ I/O Priority - Nonroot ]
+                   Author 
+     Telegram Yeye_nat | Github Yeye-PID
+                version : 2.1
+       ////////////////\\\\\\\\\\\\\\\\
+            install with > Brevent
+         
+         .:. ⚠️WARNING .:.
+- Script cukup jalankan satu kali untuk pengguaan berkelanjutan
+Note :
+- Don't Reboot Device and kill sh dill
+            
+Disclemoer shell :
+- Shell script ini saya bikin untuk menyesuaikan priortas I/O ketika diguakan gaming And dayli 
+
+Dengan Cara :
+- Mendeteksi Aplikasi mana aja yang di priortaskan ke mode High priority atau Low priority I/O
+
+Efek yang didapat Ketika mengguakan script :
+- Mengotimalkan Performance
+- Stabilisasi sumber daya sistem
+- Efisensi sistem
+- pengalaman penggua yang lebih baik 
+                .:.+ Efek .:.
+- Semakin meningkatkan perforncas aplikasi gamelist
+- Otimasi resoult system , CPU And RAM
+- Akses ke peyimpanan Yang lebih cepet
+- Efisensi battery And Suhu
+dill
+                .:. Note .:.
+- Script ini di husukan untuk < dumpsys game >, kalian tidak bisa mengganti package game yang ada Di dalam gamelist.txt dikerenakan setiap kali kalian menguninstall scirpt gamelist.txt juga akan ke delete dill
+
+Recomened :
+- Gaming
+- Multiasking
+
+Note :
+- shell script ini tidak meyebabkan Aplikasi mana pun Crash dan lag dikerenakan sudah saya susun seteliti mungkin agar tidak bedampak pada aplikasi manapun dill..
+
+Penanggung Jawab 100% By :
+- @Yeye_nat | Telegram
+- Yeye-PID   | Github
+
+install :
+Ekstrak dulu ' zip ' Ke internal
+Lalu Jalankan Perintah down Here :
+sh /sdcard/Priority/run.sh
+
+uninstall : 
+sh /sdcard/Apple/run.sh kill
+
+Disclemoer Efek :
+- Maaf jika script nya tidak begitu Berefek pada device kalian kerena tiap Device, Kernel And Versi Andorid Berbeda-beda Susah membuat script nya bekerja 100% dill..
+
+⚠️ Especially for those who want to use my script in your Module, please contact me & add credit @Yeye_nat
